@@ -1,5 +1,7 @@
 # Customer Online Shopping Behaviour - Clustering with K-Means
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kay102dev/customer-clustering/blob/main/notebooks/analysis.ipynb)
+
 This notebook explores an e-commerce session dataset to identify patterns in customer behaviour using clustering.
 
 ## Objectives
